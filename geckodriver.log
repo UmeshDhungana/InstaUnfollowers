@@ -1,0 +1,1041 @@
+1582116180531	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilejx0G0i"
+1582116182240	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582116182341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582116182341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582116182341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582116182341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582116184327	Marionette	INFO	Listening on port 50025
+1582116184348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582116247848	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileoQ9WvY"
+1582116248357	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582116248451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582116248454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582116248454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582116248454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582116250105	Marionette	INFO	Listening on port 50115
+1582116250190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582116255416	Marionette	INFO	Stopped listening on port 50025
+[Child 1174, MediaDecoderStateMachine #1] WARNING: Decoder=15a8acc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 1174, MediaDecoderStateMachine #1] WARNING: Decoder=15a8acc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+[Child 1174, MediaDecoderStateMachine #1] WARNING: Decoder=15a8acc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3337
+1582120433705	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofile04zoiG"
+1582120434114	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582120434202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582120434202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582120434202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582120434202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582120435673	Marionette	INFO	Listening on port 50965
+1582120435761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582120468348	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1582120498989	Marionette	INFO	Stopped listening on port 50965
+1582121138982	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileXoQlAy"
+1582121139522	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582121139613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582121139613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582121139614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582121139614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582121141198	Marionette	INFO	Listening on port 51040
+1582121141250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582121169090	Marionette	INFO	Stopped listening on port 51040
+1582121270103	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofile7QY58V"
+1582121270493	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582121270586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582121270586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582121270586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582121270586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582121272007	Marionette	INFO	Listening on port 51097
+1582121272060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582121309252	Marionette	INFO	Stopped listening on port 51097
+2020-02-20 01:08:36.562 firefox-bin[1171:29410] -deltaZ is deprecated for NSEventTypeMagnify.  Please use -magnification.
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 488: TypeError: window.content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 488: TypeError: window.content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 488: TypeError: window.content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 488: TypeError: window.content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 488: TypeError: window.content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 488: TypeError: window.content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 488: TypeError: window.content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 488: TypeError: window.content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 488: TypeError: window.content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 488: TypeError: window.content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 488: TypeError: window.content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 488: TypeError: window.content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 510: TypeError: window.content is null
+1582121425215	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilet0p9FK"
+1582121425655	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582121425742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582121425743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582121425743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582121425743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582121427237	Marionette	INFO	Listening on port 51213
+1582121427264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582121456159	Marionette	INFO	Stopped listening on port 51213
+1582121593440	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofiledGuh3a"
+1582121593900	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582121593987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582121593987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582121593988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582121593988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582121595497	Marionette	INFO	Listening on port 51270
+1582121595592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582121643063	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofile8JguUN"
+1582121643470	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582121643557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582121643557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582121643557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582121643557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582121645188	Marionette	INFO	Listening on port 51326
+1582121645213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582121712373	Marionette	INFO	Stopped listening on port 51326
+1582121715535	Marionette	INFO	Stopped listening on port 51270
+1582121719920	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofiletozsRy"
+1582121720450	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582121720536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582121720536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582121720536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582121720536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582121722044	Marionette	INFO	Listening on port 51387
+1582121722097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582121803805	Marionette	INFO	Stopped listening on port 51387
+1582121805876	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofile3PKqNV"
+1582121806219	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582121806307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582121806307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582121806307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582121806307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582121807704	Marionette	INFO	Listening on port 51451
+1582121807741	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582121860836	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileDIN0aj"
+1582121861179	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582121861271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582121861271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582121861271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582121861271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582121862838	Marionette	INFO	Listening on port 51499
+1582121862889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582121876129	Marionette	INFO	Stopped listening on port 51451
+1582121879770	Marionette	INFO	Stopped listening on port 51499
+1582121888939	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileFdgH2m"
+1582121889341	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582121889435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582121889435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582121889435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582121889435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582121890860	Marionette	INFO	Listening on port 51554
+1582121890895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582121963474	Marionette	INFO	Stopped listening on port 51554
+1582122274309	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofile6v3U3e"
+1582122274829	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582122274919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582122274919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582122274919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582122274920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582122276468	Marionette	INFO	Listening on port 51640
+1582122276557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582122378850	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofile8G2CYi"
+1582122379270	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582122379359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582122379359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582122379359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582122379360	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582122381061	Marionette	INFO	Listening on port 51696
+1582122381111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582122402262	Marionette	INFO	Stopped listening on port 51640
+1582122405462	Marionette	INFO	Stopped listening on port 51696
+1582122669822	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofile8QgKQ8"
+1582122670233	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582122670323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582122670323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582122670323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582122670323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582122671873	Marionette	INFO	Listening on port 51765
+1582122671972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582122769594	Marionette	INFO	Stopped listening on port 51765
+1582122772234	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileqiUSsp"
+1582122772761	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582122772850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582122772850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582122772850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582122772850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582122774308	Marionette	INFO	Listening on port 51824
+1582122774395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582123079690	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileu9AFgp"
+1582123080206	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582123080291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582123080291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582123080291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582123080291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582123081841	Marionette	INFO	Listening on port 51886
+1582123081852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582123083727	Marionette	INFO	Stopped listening on port 51824
+1582123263598	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileoWKybY"
+1582123264006	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582123264102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582123264102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582123264102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582123264102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582123265716	Marionette	INFO	Listening on port 51955
+1582123265760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582123300140	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilesnzUz6"
+1582123300674	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582123300759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582123300759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582123300760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582123300760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582123302455	Marionette	INFO	Listening on port 52009
+1582123302511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582123314046	Marionette	INFO	Stopped listening on port 51886
+1582123316541	Marionette	INFO	Stopped listening on port 51955
+1582123605095	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileGCiX2H"
+1582123605600	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582123605684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582123605684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582123605684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582123605684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582123607192	Marionette	INFO	Listening on port 52078
+1582123607253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582123626533	Marionette	INFO	Stopped listening on port 52009
+1582123952273	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilepEryRB"
+1582123952871	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582123952968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582123952968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582123952968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582123952968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582123954481	Marionette	INFO	Listening on port 52144
+1582123954527	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582124035177	Marionette	INFO	Stopped listening on port 52144
+1582124107131	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileE3udSy"
+1582124107662	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582124107749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582124107749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582124107749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582124107749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582124109348	Marionette	INFO	Listening on port 52200
+1582124109396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582124133391	Marionette	INFO	Stopped listening on port 52078
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 83))
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:83:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:100:41
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: "Protocol error (unknownError): node is null"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 83))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:83:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:100:41
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+1582126477345	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileRSPWVj"
+1582126477794	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582126477885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582126477885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582126477885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582126477885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582126479486	Marionette	INFO	Listening on port 52379
+1582126479514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582126539674	Marionette	INFO	Stopped listening on port 52200
+1582126639906	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileRmzV7B"
+1582126640368	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582126640456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582126640456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582126640457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582126640457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582126641924	Marionette	INFO	Listening on port 52435
+1582126641952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582126709368	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileOmMzXY"
+1582126709857	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582126709948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582126709948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582126709948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582126709948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582126711436	Marionette	INFO	Listening on port 52500
+1582126711520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582126726787	Marionette	INFO	Stopped listening on port 52379
+1582126738661	Marionette	INFO	Stopped listening on port 52435
+1582126846303	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilepWk2fz"
+1582126846723	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582126846822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582126846822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582126846823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582126846823	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582126848432	Marionette	INFO	Listening on port 52571
+1582126848464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582126912711	Marionette	INFO	Stopped listening on port 52500
+1582126951065	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofile9d15vy"
+1582126951550	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582126951639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582126951639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582126951639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582126951639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582126953160	Marionette	INFO	Listening on port 52626
+1582126953222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582126980655	Marionette	INFO	Stopped listening on port 52571
+1582127121266	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileMtKtTO"
+1582127121714	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582127121808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582127121808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582127121808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582127121808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582127123330	Marionette	INFO	Listening on port 52695
+1582127123414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582127180612	Marionette	INFO	Stopped listening on port 52626
+1582127992372	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileHr6kir"
+1582127992924	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582127993071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582127993071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582127993071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582127993071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582127994634	Marionette	INFO	Listening on port 52833
+1582127994723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582128028940	Marionette	INFO	Stopped listening on port 52695
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 83))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:83:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:100:41
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+1582128818711	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilePMNttF"
+1582128819169	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582128819263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582128819264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582128819264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582128819265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582128821052	Marionette	INFO	Listening on port 52930
+1582128821080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582129652697	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofile8zKdd7"
+1582129653145	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582129653340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582129653340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582129653340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582129653340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582129654945	Marionette	INFO	Listening on port 53029
+1582129654968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582129658713	Marionette	INFO	Stopped listening on port 52833
+1582129662287	Marionette	INFO	Stopped listening on port 52930
+1582130370137	Marionette	INFO	Stopped listening on port 50115
+1582130372724	Marionette	INFO	Stopped listening on port 53029
+1627214242594	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilem0SIbZ"
+1627214243443	Marionette	INFO	Marionette enabled
+2021-07-25 21:57:24.186 firefox-bin[9790:1502092] Warning: Expected min height of view: (<NSButton: 0x123291c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:57:24.186 firefox-bin[9790:1502092] Warning: Expected min height of view: (<NSButton: 0x130150000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:57:24.187 firefox-bin[9790:1502092] Warning: Expected min height of view: (<NSButton: 0x13014c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:57:24.187 firefox-bin[9790:1502092] Warning: Expected min height of view: (<NSButton: 0x130153c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:57:24.188 firefox-bin[9790:1502092] Warning: Expected min height of view: (<NSButton: 0x13014d000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:57:24.188 firefox-bin[9790:1502092] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x130152000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:57:24.189 firefox-bin[9790:1502092] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x130157000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilem0SIbZ/search.json.mozlz4", (void 0)))
+1627214245357	Marionette	INFO	Listening on port 56840
+1627214245471	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/049c44cf230e.js, line 44: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/5a295def9725.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/049c44cf230e.js, line 44: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/5a295def9725.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/049c44cf230e.js, line 44: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/5a295def9725.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/049c44cf230e.js, line 44: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/5a295def9725.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1627214299752	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofile17lDDg"
+1627214300145	Marionette	INFO	Marionette enabled
+2021-07-25 21:58:20.762 firefox-bin[9802:1503042] Warning: Expected min height of view: (<NSButton: 0x12b5b8c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:58:20.762 firefox-bin[9802:1503042] Warning: Expected min height of view: (<NSButton: 0x138384800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:58:20.763 firefox-bin[9802:1503042] Warning: Expected min height of view: (<NSButton: 0x138388800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:58:20.763 firefox-bin[9802:1503042] Warning: Expected min height of view: (<NSButton: 0x138382c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:58:20.764 firefox-bin[9802:1503042] Warning: Expected min height of view: (<NSButton: 0x138386400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:58:20.765 firefox-bin[9802:1503042] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x138385400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:58:20.765 firefox-bin[9802:1503042] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x138390000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofile17lDDg/search.json.mozlz4", (void 0)))
+1627214301657	Marionette	INFO	Listening on port 56932
+1627214301700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1627214344570	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileaHWydx"
+1627214344954	Marionette	INFO	Marionette enabled
+2021-07-25 21:59:05.531 firefox-bin[9813:1503859] Warning: Expected min height of view: (<NSButton: 0x129e6e800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:59:05.532 firefox-bin[9813:1503859] Warning: Expected min height of view: (<NSButton: 0x1352e2000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:59:05.532 firefox-bin[9813:1503859] Warning: Expected min height of view: (<NSButton: 0x1352e3000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:59:05.533 firefox-bin[9813:1503859] Warning: Expected min height of view: (<NSButton: 0x1352e5000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:59:05.533 firefox-bin[9813:1503859] Warning: Expected min height of view: (<NSButton: 0x1352e4800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:59:05.534 firefox-bin[9813:1503859] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1352e3400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:59:05.534 firefox-bin[9813:1503859] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1354bf800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileaHWydx/search.json.mozlz4", (void 0)))
+1627214346887	Marionette	INFO	Listening on port 57011
+1627214346944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627214347399	Marionette	INFO	Stopped listening on port 56932
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/049c44cf230e.js, line 44: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/5a295def9725.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/049c44cf230e.js, line 44: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/5a295def9725.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1627214376424	Marionette	INFO	Stopped listening on port 56840
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627214382618	Marionette	INFO	Stopped listening on port 57011
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627214390230	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileQof8gO"
+1627214390662	Marionette	INFO	Marionette enabled
+2021-07-25 21:59:51.223 firefox-bin[9827:1504821] Warning: Expected min height of view: (<NSButton: 0x13047c000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:59:51.224 firefox-bin[9827:1504821] Warning: Expected min height of view: (<NSButton: 0x13047b000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:59:51.224 firefox-bin[9827:1504821] Warning: Expected min height of view: (<NSButton: 0x13047b400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:59:51.225 firefox-bin[9827:1504821] Warning: Expected min height of view: (<NSButton: 0x130485400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:59:51.225 firefox-bin[9827:1504821] Warning: Expected min height of view: (<NSButton: 0x13047f800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:59:51.226 firefox-bin[9827:1504821] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13047fc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 21:59:51.226 firefox-bin[9827:1504821] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13065a400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileQof8gO/search.json.mozlz4", (void 0)))
+1627214392165	Marionette	INFO	Listening on port 57093
+1627214392190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/049c44cf230e.js, line 44: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/5a295def9725.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/049c44cf230e.js, line 44: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/5a295def9725.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1627214420999	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileSExLrG"
+1627214421389	Marionette	INFO	Marionette enabled
+2021-07-25 22:00:22.050 firefox-bin[9838:1505577] Warning: Expected min height of view: (<NSButton: 0x11c5dc800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:00:22.051 firefox-bin[9838:1505577] Warning: Expected min height of view: (<NSButton: 0x129698c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:00:22.052 firefox-bin[9838:1505577] Warning: Expected min height of view: (<NSButton: 0x129699800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:00:22.052 firefox-bin[9838:1505577] Warning: Expected min height of view: (<NSButton: 0x129699400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:00:22.053 firefox-bin[9838:1505577] Warning: Expected min height of view: (<NSButton: 0x129699000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:00:22.053 firefox-bin[9838:1505577] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12969b000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:00:22.054 firefox-bin[9838:1505577] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x127b65000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileSExLrG/search.json.mozlz4", (void 0)))
+1627214423111	Marionette	INFO	Listening on port 57166
+1627214423174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/049c44cf230e.js, line 44: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/5a295def9725.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/049c44cf230e.js, line 44: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/5a295def9725.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1627214451662	Marionette	INFO	Stopped listening on port 57093
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627214453587	Marionette	INFO	Stopped listening on port 57166
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627214457796	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilecH9qrg"
+1627214458224	Marionette	INFO	Marionette enabled
+2021-07-25 22:00:58.784 firefox-bin[9851:1506418] Warning: Expected min height of view: (<NSButton: 0x124d05400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:00:58.785 firefox-bin[9851:1506418] Warning: Expected min height of view: (<NSButton: 0x131976400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:00:58.785 firefox-bin[9851:1506418] Warning: Expected min height of view: (<NSButton: 0x131976800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:00:58.786 firefox-bin[9851:1506418] Warning: Expected min height of view: (<NSButton: 0x131980c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:00:58.786 firefox-bin[9851:1506418] Warning: Expected min height of view: (<NSButton: 0x13197c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:00:58.787 firefox-bin[9851:1506418] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13197b800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:00:58.787 firefox-bin[9851:1506418] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x131c64400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilecH9qrg/search.json.mozlz4", (void 0)))
+1627214459739	Marionette	INFO	Listening on port 57254
+1627214459776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1627214552659	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilevoa6CU"
+1627214553142	Marionette	INFO	Marionette enabled
+2021-07-25 22:02:33.724 firefox-bin[9880:1507530] Warning: Expected min height of view: (<NSButton: 0x126a60000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:02:33.725 firefox-bin[9880:1507530] Warning: Expected min height of view: (<NSButton: 0x133845800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:02:33.725 firefox-bin[9880:1507530] Warning: Expected min height of view: (<NSButton: 0x133843400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:02:33.726 firefox-bin[9880:1507530] Warning: Expected min height of view: (<NSButton: 0x133847000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:02:33.726 firefox-bin[9880:1507530] Warning: Expected min height of view: (<NSButton: 0x13383f400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:02:33.727 firefox-bin[9880:1507530] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x133840400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:02:33.728 firefox-bin[9880:1507530] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x128458400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilevoa6CU/search.json.mozlz4", (void 0)))
+1627214554679	Marionette	INFO	Listening on port 57331
+1627214554718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1627214774051	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilexQnge3"
+1627214774558	Marionette	INFO	Marionette enabled
+2021-07-25 22:06:15.198 firefox-bin[9918:1509435] Warning: Expected min height of view: (<NSButton: 0x132fa2400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:06:15.199 firefox-bin[9918:1509435] Warning: Expected min height of view: (<NSButton: 0x132f9d800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:06:15.199 firefox-bin[9918:1509435] Warning: Expected min height of view: (<NSButton: 0x132f9dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:06:15.200 firefox-bin[9918:1509435] Warning: Expected min height of view: (<NSButton: 0x132fa1c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:06:15.200 firefox-bin[9918:1509435] Warning: Expected min height of view: (<NSButton: 0x132f9c800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:06:15.201 firefox-bin[9918:1509435] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x132f9cc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:06:15.201 firefox-bin[9918:1509435] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13307cc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilexQnge3/search.json.mozlz4", (void 0)))
+1627214776208	Marionette	INFO	Listening on port 57430
+1627214776243	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627214778461	Marionette	INFO	Stopped listening on port 57254
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: uncaught exception: Object
+1627214782058	Marionette	INFO	Stopped listening on port 57331
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627214820456	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilebCU9fK"
+1627214820782	Marionette	INFO	Marionette enabled
+2021-07-25 22:07:01.365 firefox-bin[9934:1510342] Warning: Expected min height of view: (<NSButton: 0x11ec60c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:07:01.365 firefox-bin[9934:1510342] Warning: Expected min height of view: (<NSButton: 0x12bacc000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:07:01.366 firefox-bin[9934:1510342] Warning: Expected min height of view: (<NSButton: 0x12bacd000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:07:01.366 firefox-bin[9934:1510342] Warning: Expected min height of view: (<NSButton: 0x12bad2000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:07:01.367 firefox-bin[9934:1510342] Warning: Expected min height of view: (<NSButton: 0x12bacac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:07:01.367 firefox-bin[9934:1510342] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12bacb000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:07:01.368 firefox-bin[9934:1510342] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12ac49400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilebCU9fK/search.json.mozlz4", (void 0)))
+1627214822564	Marionette	INFO	Listening on port 57517
+1627214822618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627214823752	Marionette	INFO	Stopped listening on port 57430
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/049c44cf230e.js, line 44: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/5a295def9725.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1627215193992	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileT1712W"
+1627215194433	Marionette	INFO	Marionette enabled
+2021-07-25 22:13:15.088 firefox-bin[9968:1513126] Warning: Expected min height of view: (<NSButton: 0x129934800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:13:15.088 firefox-bin[9968:1513126] Warning: Expected min height of view: (<NSButton: 0x13681a000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:13:15.089 firefox-bin[9968:1513126] Warning: Expected min height of view: (<NSButton: 0x136820c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:13:15.089 firefox-bin[9968:1513126] Warning: Expected min height of view: (<NSButton: 0x13681c800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:13:15.090 firefox-bin[9968:1513126] Warning: Expected min height of view: (<NSButton: 0x13681fc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:13:15.090 firefox-bin[9968:1513126] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13681b000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:13:15.091 firefox-bin[9968:1513126] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x136821c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileT1712W/search.json.mozlz4", (void 0)))
+1627215196165	Marionette	INFO	Listening on port 57629
+1627215196251	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1627215198369	Marionette	INFO	Stopped listening on port 57517
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/5a295def9725.js, line 32: cancelled: operation is cancelled
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/5a295def9725.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1627215496627	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilePSlnnG"
+1627215497143	Marionette	INFO	Marionette enabled
+2021-07-25 22:18:17.727 firefox-bin[10010:1515845] Warning: Expected min height of view: (<NSButton: 0x1289d9800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:18:17.728 firefox-bin[10010:1515845] Warning: Expected min height of view: (<NSButton: 0x1289dcc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:18:17.728 firefox-bin[10010:1515845] Warning: Expected min height of view: (<NSButton: 0x1289dd000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:18:17.729 firefox-bin[10010:1515845] Warning: Expected min height of view: (<NSButton: 0x1289e3c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:18:17.729 firefox-bin[10010:1515845] Warning: Expected min height of view: (<NSButton: 0x1289e6000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:18:17.730 firefox-bin[10010:1515845] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1289e4c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:18:17.730 firefox-bin[10010:1515845] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x128ac4800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilePSlnnG/search.json.mozlz4", (void 0)))
+1627215498639	Marionette	INFO	Listening on port 57741
+1627215498689	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b1bd252cbe08.js, line 223: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/b1bd252cbe08.js, line 223: NS_ERROR_NOT_INITIALIZED: 
+2021-07-25 22:18:22.910 firefox-bin[10010:1515845] Warning: Expected min height of view: (<NSButton: 0x10b7f4c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:18:22.911 firefox-bin[10010:1515845] Warning: Expected min height of view: (<NSButton: 0x12ec15400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:18:22.911 firefox-bin[10010:1515845] Warning: Expected min height of view: (<NSButton: 0x12ec17400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:18:22.912 firefox-bin[10010:1515845] Warning: Expected min height of view: (<NSButton: 0x12ec16400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:18:22.912 firefox-bin[10010:1515845] Warning: Expected min height of view: (<NSButton: 0x12ec1c000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:18:22.913 firefox-bin[10010:1515845] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12ec1b800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:18:22.913 firefox-bin[10010:1515845] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12ed82400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1627215512434	Marionette	INFO	Stopped listening on port 57741
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627215515799	Marionette	INFO	Stopped listening on port 57629
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627215519442	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilew5vjpA"
+1627215519861	Marionette	INFO	Marionette enabled
+2021-07-25 22:18:40.438 firefox-bin[10022:1516521] Warning: Expected min height of view: (<NSButton: 0x135628800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:18:40.438 firefox-bin[10022:1516521] Warning: Expected min height of view: (<NSButton: 0x135627c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:18:40.439 firefox-bin[10022:1516521] Warning: Expected min height of view: (<NSButton: 0x135628000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:18:40.439 firefox-bin[10022:1516521] Warning: Expected min height of view: (<NSButton: 0x135630000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:18:40.440 firefox-bin[10022:1516521] Warning: Expected min height of view: (<NSButton: 0x13562f400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:18:40.440 firefox-bin[10022:1516521] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13562c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-07-25 22:18:40.441 firefox-bin[10022:1516521] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13596a800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilew5vjpA/search.json.mozlz4", (void 0)))
+1627215521381	Marionette	INFO	Listening on port 57806
+1627215521401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/049c44cf230e.js, line 44: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/5a295def9725.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1627215796399	Marionette	INFO	Stopped listening on port 57806
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637933425042	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilee6r7AE"
+1637933425783	Marionette	INFO	Marionette enabled
+2021-11-27 00:30:26.554 firefox-bin[6963:2166981] Warning: Expected min height of view: (<NSButton: 0x132e44c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:30:26.555 firefox-bin[6963:2166981] Warning: Expected min height of view: (<NSButton: 0x13316ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:30:26.556 firefox-bin[6963:2166981] Warning: Expected min height of view: (<NSButton: 0x13316f400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:30:26.556 firefox-bin[6963:2166981] Warning: Expected min height of view: (<NSButton: 0x13316d000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:30:26.557 firefox-bin[6963:2166981] Warning: Expected min height of view: (<NSButton: 0x133171000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:30:26.557 firefox-bin[6963:2166981] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x133169400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:30:26.558 firefox-bin[6963:2166981] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x133177000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilee6r7AE/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1637933427611	Marionette	INFO	Listening on port 64306
+1637933427646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637933467774	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileLHlGso"
+1637933468166	Marionette	INFO	Marionette enabled
+2021-11-27 00:31:08.782 firefox-bin[6973:2167830] Warning: Expected min height of view: (<NSButton: 0x12b91b400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:31:08.782 firefox-bin[6973:2167830] Warning: Expected min height of view: (<NSButton: 0x138118c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:31:08.783 firefox-bin[6973:2167830] Warning: Expected min height of view: (<NSButton: 0x138118400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:31:08.783 firefox-bin[6973:2167830] Warning: Expected min height of view: (<NSButton: 0x138115c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:31:08.784 firefox-bin[6973:2167830] Warning: Expected min height of view: (<NSButton: 0x138115000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:31:08.784 firefox-bin[6973:2167830] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x138117800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:31:08.785 firefox-bin[6973:2167830] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x138123000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileLHlGso/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1637933469752	Marionette	INFO	Listening on port 64408
+1637933469831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637933571472	Marionette	INFO	Stopped listening on port 64306
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1637933573695	Marionette	INFO	Stopped listening on port 64408
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637933577232	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilev13A0h"
+1637933577644	Marionette	INFO	Marionette enabled
+2021-11-27 00:32:58.216 firefox-bin[6992:2169389] Warning: Expected min height of view: (<NSButton: 0x12e840400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:32:58.216 firefox-bin[6992:2169389] Warning: Expected min height of view: (<NSButton: 0x12eb82800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:32:58.216 firefox-bin[6992:2169389] Warning: Expected min height of view: (<NSButton: 0x12eb81000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:32:58.217 firefox-bin[6992:2169389] Warning: Expected min height of view: (<NSButton: 0x12eb86000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:32:58.217 firefox-bin[6992:2169389] Warning: Expected min height of view: (<NSButton: 0x12eb85800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:32:58.218 firefox-bin[6992:2169389] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12eb80400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:32:58.218 firefox-bin[6992:2169389] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12eb8c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilev13A0h/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1637933579158	Marionette	INFO	Listening on port 64512
+1637933579203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1637933777684	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofile2YA03H"
+1637933778132	Marionette	INFO	Marionette enabled
+2021-11-27 00:36:18.741 firefox-bin[7024:2171301] Warning: Expected min height of view: (<NSButton: 0x12e041800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:36:18.741 firefox-bin[7024:2171301] Warning: Expected min height of view: (<NSButton: 0x12e381c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:36:18.742 firefox-bin[7024:2171301] Warning: Expected min height of view: (<NSButton: 0x12e37f400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:36:18.742 firefox-bin[7024:2171301] Warning: Expected min height of view: (<NSButton: 0x12e381800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:36:18.743 firefox-bin[7024:2171301] Warning: Expected min height of view: (<NSButton: 0x12e37f800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:36:18.744 firefox-bin[7024:2171301] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12e380c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:36:18.745 firefox-bin[7024:2171301] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12e386c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofile2YA03H/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1637933779684	Marionette	INFO	Listening on port 64618
+1637933779739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1637933859353	Marionette	INFO	Stopped listening on port 64618
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/f1ccaccbcdba.js, line 238: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/f1ccaccbcdba.js, line 238: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637933862476	Marionette	INFO	Stopped listening on port 64512
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637933865192	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofiletQgioo"
+1637933865634	Marionette	INFO	Marionette enabled
+2021-11-27 00:37:46.221 firefox-bin[7055:2172691] Warning: Expected min height of view: (<NSButton: 0x131b38800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:37:46.221 firefox-bin[7055:2172691] Warning: Expected min height of view: (<NSButton: 0x131e7d000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:37:46.222 firefox-bin[7055:2172691] Warning: Expected min height of view: (<NSButton: 0x131e7e000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:37:46.222 firefox-bin[7055:2172691] Warning: Expected min height of view: (<NSButton: 0x131e77400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:37:46.223 firefox-bin[7055:2172691] Warning: Expected min height of view: (<NSButton: 0x131e79c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:37:46.223 firefox-bin[7055:2172691] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x131e7bc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:37:46.223 firefox-bin[7055:2172691] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x131e82800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofiletQgioo/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1637933867162	Marionette	INFO	Listening on port 64716
+1637933867258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637933890212	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileIljFX3"
+1637933890554	Marionette	INFO	Marionette enabled
+2021-11-27 00:38:11.210 firefox-bin[7062:2173191] Warning: Expected min height of view: (<NSButton: 0x12b520c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:38:11.210 firefox-bin[7062:2173191] Warning: Expected min height of view: (<NSButton: 0x12b521400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:38:11.211 firefox-bin[7062:2173191] Warning: Expected min height of view: (<NSButton: 0x12b51e800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:38:11.211 firefox-bin[7062:2173191] Warning: Expected min height of view: (<NSButton: 0x12b522800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:38:11.212 firefox-bin[7062:2173191] Warning: Expected min height of view: (<NSButton: 0x12b523000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:38:11.212 firefox-bin[7062:2173191] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12b522c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:38:11.213 firefox-bin[7062:2173191] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12b524c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileIljFX3/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1637933892141	Marionette	INFO	Listening on port 64803
+1637933892185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637933949986	Marionette	INFO	Stopped listening on port 64716
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637933952024	Marionette	INFO	Stopped listening on port 64803
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637933959867	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilefYs0Cs"
+1637933960302	Marionette	INFO	Marionette enabled
+2021-11-27 00:39:20.885 firefox-bin[7073:2174259] Warning: Expected min height of view: (<NSButton: 0x13673e400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:39:20.885 firefox-bin[7073:2174259] Warning: Expected min height of view: (<NSButton: 0x136a88000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:39:20.886 firefox-bin[7073:2174259] Warning: Expected min height of view: (<NSButton: 0x136a88800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:39:20.886 firefox-bin[7073:2174259] Warning: Expected min height of view: (<NSButton: 0x136a82c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:39:20.887 firefox-bin[7073:2174259] Warning: Expected min height of view: (<NSButton: 0x136a85400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:39:20.887 firefox-bin[7073:2174259] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x136a87000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:39:20.888 firefox-bin[7073:2174259] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x136a8dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilefYs0Cs/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1637933961827	Marionette	INFO	Listening on port 64895
+1637933961926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637934046355	Marionette	INFO	Stopped listening on port 64895
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637934047538	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileU85OK1"
+1637934047911	Marionette	INFO	Marionette enabled
+2021-11-27 00:40:48.490 firefox-bin[7093:2175423] Warning: Expected min height of view: (<NSButton: 0x128835800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:40:48.491 firefox-bin[7093:2175423] Warning: Expected min height of view: (<NSButton: 0x128b75c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:40:48.491 firefox-bin[7093:2175423] Warning: Expected min height of view: (<NSButton: 0x128b73800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:40:48.492 firefox-bin[7093:2175423] Warning: Expected min height of view: (<NSButton: 0x128b71400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:40:48.492 firefox-bin[7093:2175423] Warning: Expected min height of view: (<NSButton: 0x128b72000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:40:48.493 firefox-bin[7093:2175423] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x128b76000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:40:48.493 firefox-bin[7093:2175423] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x128b7f000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileU85OK1/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1637934049456	Marionette	INFO	Listening on port 64991
+1637934049510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 951))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:951:7
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1451:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1522:10
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+1637934196438	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilejD3wzz"
+1637934196873	Marionette	INFO	Marionette enabled
+2021-11-27 00:43:17.489 firefox-bin[7109:2176892] Warning: Expected min height of view: (<NSButton: 0x12b335000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:43:17.490 firefox-bin[7109:2176892] Warning: Expected min height of view: (<NSButton: 0x12b65d000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:43:17.490 firefox-bin[7109:2176892] Warning: Expected min height of view: (<NSButton: 0x12b65d400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:43:17.491 firefox-bin[7109:2176892] Warning: Expected min height of view: (<NSButton: 0x12b658c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:43:17.491 firefox-bin[7109:2176892] Warning: Expected min height of view: (<NSButton: 0x12b659000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:43:17.492 firefox-bin[7109:2176892] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12b65a000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:43:17.492 firefox-bin[7109:2176892] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12b660800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofilejD3wzz/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1637934198434	Marionette	INFO	Listening on port 65093
+1637934198508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1637934262575	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileV0yufb"
+1637934263057	Marionette	INFO	Marionette enabled
+2021-11-27 00:44:23.704 firefox-bin[7136:2178125] Warning: Expected min height of view: (<NSButton: 0x12a43a400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:44:23.704 firefox-bin[7136:2178125] Warning: Expected min height of view: (<NSButton: 0x12a776c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:44:23.705 firefox-bin[7136:2178125] Warning: Expected min height of view: (<NSButton: 0x12a777000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:44:23.705 firefox-bin[7136:2178125] Warning: Expected min height of view: (<NSButton: 0x12a77ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:44:23.706 firefox-bin[7136:2178125] Warning: Expected min height of view: (<NSButton: 0x12a776800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:44:23.706 firefox-bin[7136:2178125] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12a779400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:44:23.707 firefox-bin[7136:2178125] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12a781000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileV0yufb/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1637934264858	Marionette	INFO	Listening on port 65196
+1637934264962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637934267221	Marionette	INFO	Stopped listening on port 64991
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637934269520	Marionette	INFO	Stopped listening on port 65093
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1637934337272	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileavH7Ct"
+1637934337619	Marionette	INFO	Marionette enabled
+2021-11-27 00:45:38.199 firefox-bin[7154:2179263] Warning: Expected min height of view: (<NSButton: 0x12bf44c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:45:38.199 firefox-bin[7154:2179263] Warning: Expected min height of view: (<NSButton: 0x12c282000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:45:38.200 firefox-bin[7154:2179263] Warning: Expected min height of view: (<NSButton: 0x12c280400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:45:38.200 firefox-bin[7154:2179263] Warning: Expected min height of view: (<NSButton: 0x12c27e800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:45:38.201 firefox-bin[7154:2179263] Warning: Expected min height of view: (<NSButton: 0x12c27f800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:45:38.201 firefox-bin[7154:2179263] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12c27cc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:45:38.202 firefox-bin[7154:2179263] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12c285800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileavH7Ct/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1637934339149	Marionette	INFO	Listening on port 65293
+1637934339245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1637934531346	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofile9JG8oh"
+1637934531805	Marionette	INFO	Marionette enabled
+2021-11-27 00:48:52.462 firefox-bin[7183:2181221] Warning: Expected min height of view: (<NSButton: 0x11dd46000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:48:52.463 firefox-bin[7183:2181221] Warning: Expected min height of view: (<NSButton: 0x12a980800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:48:52.463 firefox-bin[7183:2181221] Warning: Expected min height of view: (<NSButton: 0x12a980c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:48:52.464 firefox-bin[7183:2181221] Warning: Expected min height of view: (<NSButton: 0x12a97cc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:48:52.464 firefox-bin[7183:2181221] Warning: Expected min height of view: (<NSButton: 0x12a982800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:48:52.465 firefox-bin[7183:2181221] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12a97e000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:48:52.465 firefox-bin[7183:2181221] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12a989c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofile9JG8oh/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1637934533415	Marionette	INFO	Listening on port 65391
+1637934533523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1637934563352	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileF3eKMX"
+1637934563704	Marionette	INFO	Marionette enabled
+2021-11-27 00:49:24.569 firefox-bin[7194:2181991] Warning: Expected min height of view: (<NSButton: 0x135c2b000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:49:24.570 firefox-bin[7194:2181991] Warning: Expected min height of view: (<NSButton: 0x135c26c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:49:24.570 firefox-bin[7194:2181991] Warning: Expected min height of view: (<NSButton: 0x135c25c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:49:24.571 firefox-bin[7194:2181991] Warning: Expected min height of view: (<NSButton: 0x135c28400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:49:24.571 firefox-bin[7194:2181991] Warning: Expected min height of view: (<NSButton: 0x135c2b400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:49:24.572 firefox-bin[7194:2181991] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x135c27400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-11-27 00:49:24.572 firefox-bin[7194:2181991] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x135c2e000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qz/97cs621563b6nqzm31dg54d80000gn/T/rust_mozprofileF3eKMX/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1637934565697	Marionette	INFO	Listening on port 65477
+1637934565730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Parent 7194, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+1637934591708	Marionette	INFO	Stopped listening on port 65196
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637934593464	Marionette	INFO	Stopped listening on port 65293
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637934595233	Marionette	INFO	Stopped listening on port 65391
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637934596928	Marionette	INFO	Stopped listening on port 65477
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
