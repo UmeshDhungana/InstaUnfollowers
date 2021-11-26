@@ -5,4 +5,6 @@ the follweings that have not follwed you back.
 
 This project was done in python 3.8 and uses selenium web driver for automation.
 
+Install
+pip install -r requirements.txt
 
